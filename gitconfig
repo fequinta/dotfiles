@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fquintanavicuna@gmail.com
+	name = quintanavicuna
